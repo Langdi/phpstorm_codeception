@@ -14,7 +14,7 @@ cd /var/www/test
 php composer.phar install
 ```
 
-* Configure PHPStorm to use php interpreter of `c2` service:
+* Configure PHPStorm to use remote (docker-compose) php interpreter of `c2` service:
 
 ![img.png](img.png)
 
