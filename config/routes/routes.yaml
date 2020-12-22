@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+testroute:
+  path: /test
+  controller: App\Controller\DefaultController::test
